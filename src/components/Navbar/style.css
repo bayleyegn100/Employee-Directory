@@ -1,0 +1,12 @@
+.navbar {
+    
+    justify-content: center;
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+    background-color: #012006;
+    color: white;
+    padding: 15px;
+}

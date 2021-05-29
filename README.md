@@ -24,7 +24,7 @@ You do not have a limitation to use this application. As you see the license sec
 ## Test
   You can click on the following link and find non sensetive informations of employees.
 
-  [Deploye lind](https://bayleyegn100.github.io/Employee-Directory/)
+  [Deploy link](https://bayleyegn100.github.io/Employee-Directory/)
   
 ## Acknowledgement
 
